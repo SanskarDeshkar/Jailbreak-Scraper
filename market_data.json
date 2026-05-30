@@ -1,0 +1,450 @@
+[
+  {
+    "name": "Javelin",
+    "base_value": 50000000,
+    "duped_value": 50000000,
+    "rarity": "Common",
+    "demand": "High"
+  },
+  {
+    "name": "Beignet",
+    "base_value": 40000000,
+    "duped_value": 37000000,
+    "rarity": "Common",
+    "demand": "High"
+  },
+  {
+    "name": "Proto-8",
+    "base_value": 32000000,
+    "duped_value": 32000000,
+    "rarity": "Common",
+    "demand": "Excellent"
+  },
+  {
+    "name": "Torpedo",
+    "base_value": 31000000,
+    "duped_value": 26000000,
+    "rarity": "Common",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Power1",
+    "base_value": 25000000,
+    "duped_value": 25000000,
+    "rarity": "Common",
+    "demand": "High"
+  },
+  {
+    "name": "Celsior",
+    "base_value": 25000000,
+    "duped_value": 21500000,
+    "rarity": "Uncommon",
+    "demand": "Low"
+  },
+  {
+    "name": "ICEBreaker",
+    "base_value": 20000000,
+    "duped_value": 17000000,
+    "rarity": "Uncommon",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Beam Hybrid",
+    "base_value": 19000000,
+    "duped_value": 16000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "Banana Car",
+    "base_value": 16000000,
+    "duped_value": 16000000,
+    "rarity": "Rare",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Arachnid",
+    "base_value": 16000000,
+    "duped_value": 14000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "MoltenM12",
+    "base_value": 15000000,
+    "duped_value": 15000000,
+    "rarity": "Common",
+    "demand": "Low"
+  },
+  {
+    "name": "Raptor",
+    "base_value": 11000000,
+    "duped_value": 11000000,
+    "rarity": "Rare",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Volt4x4",
+    "base_value": 10000000,
+    "duped_value": 10000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "Parisian",
+    "base_value": 9000000,
+    "duped_value": 9000000,
+    "rarity": "Common",
+    "demand": "High"
+  },
+  {
+    "name": "Crew Capsule",
+    "base_value": 8500000,
+    "duped_value": 8500000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Aperture",
+    "base_value": 8500000,
+    "duped_value": 8500000,
+    "rarity": "Common",
+    "demand": "High"
+  },
+  {
+    "name": "Shogun",
+    "base_value": 6500000,
+    "duped_value": 6500000,
+    "rarity": "Uncommon",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Scorpion",
+    "base_value": 6000000,
+    "duped_value": 6000000,
+    "rarity": "Common",
+    "demand": "High"
+  },
+  {
+    "name": "Goliath",
+    "base_value": 5500000,
+    "duped_value": 5500000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "Macaron",
+    "base_value": 5500000,
+    "duped_value": 5500000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "Carbonara",
+    "base_value": 5500000,
+    "duped_value": 5500000,
+    "rarity": "Common",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Bandit",
+    "base_value": 5000000,
+    "duped_value": 5000000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "Torero",
+    "base_value": 4000000,
+    "duped_value": 4000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "JB8",
+    "base_value": 4000000,
+    "duped_value": 4000000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Katana",
+    "base_value": 3500000,
+    "duped_value": 3500000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Orion M42",
+    "base_value": 3500000,
+    "duped_value": 3500000,
+    "rarity": "Very Common",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Snake",
+    "base_value": 3500000,
+    "duped_value": 3500000,
+    "rarity": "Common",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Air Tail",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Brulee",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Rattler",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Iceborn",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Tiny Toy",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Polaire",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Common",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Bloxy",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "Wedge",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Poseidon",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Cobra",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Concept",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Common",
+    "demand": "Low"
+  },
+  {
+    "name": "Brick Kar-1",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Common",
+    "demand": "Low"
+  },
+  {
+    "name": "Stormrider",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Shell Classic",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Agent",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Rare",
+    "demand": "Low"
+  },
+  {
+    "name": "JBX-0031",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Revox",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Blackbeard",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Longhorn",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Low"
+  },
+  {
+    "name": "Jack Rabbit",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Low"
+  },
+  {
+    "name": "OG Monster",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Megalodon",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Striker",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Frost Crawler",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Black Widow",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Monster",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Bionic",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Maverick",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Volt",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Bluebird",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Trailblazer",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "BlackHawk",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Tank",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Drone",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Sloop",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Manta",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Jet",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  }
+]
