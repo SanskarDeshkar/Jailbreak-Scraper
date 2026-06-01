@@ -16,7 +16,7 @@ def fetch_url(url: str, timeout: float = 30.0) -> str | None:
         page.wait_for_timeout(5000)
 
         all_cards_html = set()
-        for _ in range(50):
+        for _ in range(70):
             current_cards = page.evaluate(
                 "() => Array.from(document.querySelectorAll('div[data-slot=\"card\"]')).map(el => el.outerHTML)"
             )

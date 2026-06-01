@@ -1,20 +1,103 @@
 [
   {
+    "name": "HyperShift",
+    "category": "Color",
+    "base_value": 275000000,
+    "duped_value": 250500000,
+    "rarity": "Very Rare",
+    "demand": "Below Average"
+  },
+  {
     "name": "Javelin",
+    "category": "Vehicle",
     "base_value": 50000000,
     "duped_value": 50000000,
     "rarity": "Common",
     "demand": "High"
   },
   {
+    "name": "HyperDiamond Lvl5",
+    "category": "Color",
+    "base_value": 46000000,
+    "duped_value": 42000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Void",
+    "category": "Rim",
+    "base_value": 45000000,
+    "duped_value": 38000000,
+    "rarity": "Rare",
+    "demand": "Below Average"
+  },
+  {
+    "name": "HyperPink Lvl5",
+    "category": "Color",
+    "base_value": 43000000,
+    "duped_value": 39000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperBlue Lvl5",
+    "category": "Color",
+    "base_value": 42000000,
+    "duped_value": 38000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
     "name": "Beignet",
+    "category": "Vehicle",
     "base_value": 40000000,
     "duped_value": 37000000,
     "rarity": "Common",
     "demand": "High"
   },
   {
+    "name": "Checker",
+    "category": "Texture",
+    "base_value": 39000000,
+    "duped_value": 34000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperBlue Lvl4",
+    "category": "Color",
+    "base_value": 38000000,
+    "duped_value": 38000000,
+    "rarity": "Very Rare",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Thrusters",
+    "category": "Spoiler",
+    "base_value": 37500000,
+    "duped_value": 32000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperPurple Lvl5",
+    "category": "Color",
+    "base_value": 35000000,
+    "duped_value": 32000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperRed Lvl5",
+    "category": "Color",
+    "base_value": 35000000,
+    "duped_value": 32000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
     "name": "Proto-8",
+    "category": "Vehicle",
     "base_value": 32000000,
     "duped_value": 32000000,
     "rarity": "Common",
@@ -22,13 +105,71 @@
   },
   {
     "name": "Torpedo",
+    "category": "Vehicle",
     "base_value": 31000000,
     "duped_value": 26000000,
     "rarity": "Common",
     "demand": "Above Average"
   },
   {
+    "name": "Blue Fire",
+    "category": "Drift",
+    "base_value": 31000000,
+    "duped_value": 31000000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperOrange Lvl5",
+    "category": "Color",
+    "base_value": 30000000,
+    "duped_value": 28000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Laser Cannon",
+    "category": "Rim",
+    "base_value": 29000000,
+    "duped_value": 29000000,
+    "rarity": "Uncommon",
+    "demand": "Above Average"
+  },
+  {
+    "name": "HyperDiamond Lvl4",
+    "category": "Color",
+    "base_value": 28000000,
+    "duped_value": 28000000,
+    "rarity": "Common",
+    "demand": "Low"
+  },
+  {
+    "name": "HyperPink Lvl4",
+    "category": "Color",
+    "base_value": 26000000,
+    "duped_value": 26000000,
+    "rarity": "Rare",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Vantablack",
+    "category": "Color",
+    "base_value": 25000000,
+    "duped_value": 25000000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperGreen Lvl5",
+    "category": "Color",
+    "base_value": 25000000,
+    "duped_value": 23000000,
+    "rarity": "Uncommon",
+    "demand": "Above Average"
+  },
+  {
     "name": "Power1",
+    "category": "Vehicle",
     "base_value": 25000000,
     "duped_value": 25000000,
     "rarity": "Common",
@@ -36,349 +177,1455 @@
   },
   {
     "name": "Celsior",
+    "category": "Vehicle",
     "base_value": 25000000,
     "duped_value": 21500000,
     "rarity": "Uncommon",
-    "demand": "Low"
+    "demand": "Below Average"
+  },
+  {
+    "name": "HyperRed Lvl4",
+    "category": "Color",
+    "base_value": 23000000,
+    "duped_value": 23000000,
+    "rarity": "Rare",
+    "demand": "Below Average"
+  },
+  {
+    "name": "HyperPurple Lvl4",
+    "category": "Color",
+    "base_value": 22000000,
+    "duped_value": 22000000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
   },
   {
     "name": "ICEBreaker",
+    "category": "Vehicle",
     "base_value": 20000000,
     "duped_value": 17000000,
     "rarity": "Uncommon",
     "demand": "Above Average"
   },
   {
+    "name": "Drip",
+    "category": "Texture",
+    "base_value": 20000000,
+    "duped_value": 20000000,
+    "rarity": "Common",
+    "demand": "High"
+  },
+  {
     "name": "Beam Hybrid",
+    "category": "Vehicle",
     "base_value": 19000000,
     "duped_value": 16000000,
     "rarity": "Uncommon",
     "demand": "Average"
   },
   {
-    "name": "Banana Car",
-    "base_value": 16000000,
-    "duped_value": 16000000,
-    "rarity": "Rare",
-    "demand": "Above Average"
+    "name": "HyperYellow Lvl5",
+    "category": "Color",
+    "base_value": 19000000,
+    "duped_value": 17000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Gradient Pixel",
+    "category": "Drift",
+    "base_value": 17000000,
+    "duped_value": 17000000,
+    "rarity": "Very Rare",
+    "demand": "Average"
   },
   {
     "name": "Arachnid",
+    "category": "Vehicle",
     "base_value": 16000000,
     "duped_value": 14000000,
     "rarity": "Uncommon",
     "demand": "Average"
   },
   {
-    "name": "MoltenM12",
+    "name": "HyperOrange Lvl4",
+    "category": "Color",
+    "base_value": 16000000,
+    "duped_value": 16000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "RTX",
+    "category": "Rim",
+    "base_value": 16000000,
+    "duped_value": 16000000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "Banana Car",
+    "category": "Vehicle",
+    "base_value": 16000000,
+    "duped_value": 16000000,
+    "rarity": "Rare",
+    "demand": "Above Average"
+  },
+  {
+    "name": "HyperGreen Lvl4",
+    "category": "Color",
+    "base_value": 15000000,
+    "duped_value": 15000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperDiamond Lvl3",
+    "category": "Color",
     "base_value": 15000000,
     "duped_value": 15000000,
     "rarity": "Common",
     "demand": "Low"
   },
   {
+    "name": "MoltenM12",
+    "category": "Vehicle",
+    "base_value": 15000000,
+    "duped_value": 15000000,
+    "rarity": "Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "HyperBlue Lvl3",
+    "category": "Color",
+    "base_value": 15000000,
+    "duped_value": 15000000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "Spinner",
+    "category": "Rim",
+    "base_value": 14000000,
+    "duped_value": 12000000,
+    "rarity": "Rare",
+    "demand": "Low"
+  },
+  {
+    "name": "Drip",
+    "category": "Weapon Skin",
+    "base_value": 12000000,
+    "duped_value": 12000000,
+    "rarity": "Very Rare",
+    "demand": "Low"
+  },
+  {
     "name": "Raptor",
+    "category": "Vehicle",
     "base_value": 11000000,
     "duped_value": 11000000,
     "rarity": "Rare",
     "demand": "Below Average"
   },
   {
-    "name": "Volt4x4",
+    "name": "Spiked",
+    "category": "Tire Style",
+    "base_value": 11000000,
+    "duped_value": 11000000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
+  },
+  {
+    "name": "HyperPink Lvl3",
+    "category": "Color",
+    "base_value": 10000000,
+    "duped_value": 10000000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
+  },
+  {
+    "name": "HyperYellow Lvl4",
+    "category": "Color",
     "base_value": 10000000,
     "duped_value": 10000000,
     "rarity": "Uncommon",
     "demand": "Average"
   },
   {
+    "name": "Volt4x4",
+    "category": "Vehicle",
+    "base_value": 10000000,
+    "duped_value": 10000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "Noob Scream",
+    "category": "Furniture",
+    "base_value": 9500000,
+    "duped_value": 9500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
     "name": "Parisian",
+    "category": "Vehicle",
     "base_value": 9000000,
     "duped_value": 9000000,
     "rarity": "Common",
     "demand": "High"
   },
   {
-    "name": "Crew Capsule",
-    "base_value": 8500000,
-    "duped_value": 8500000,
-    "rarity": "Rare",
-    "demand": "Very Low"
-  },
-  {
     "name": "Aperture",
+    "category": "Vehicle",
     "base_value": 8500000,
     "duped_value": 8500000,
     "rarity": "Common",
     "demand": "High"
   },
   {
+    "name": "HyperPurple Lvl3",
+    "category": "Color",
+    "base_value": 8500000,
+    "duped_value": 8500000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Snowstorm",
+    "category": "Texture",
+    "base_value": 8500000,
+    "duped_value": 8500000,
+    "rarity": "Rare",
+    "demand": "Average"
+  },
+  {
+    "name": "Crew Capsule",
+    "category": "Vehicle",
+    "base_value": 8500000,
+    "duped_value": 8500000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Brickset",
+    "category": "Tire Style",
+    "base_value": 7000000,
+    "duped_value": 7000000,
+    "rarity": "Rare",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Blue50",
+    "category": "Tire Sticker",
+    "base_value": 6500000,
+    "duped_value": 6500000,
+    "rarity": "Very Rare",
+    "demand": "Low"
+  },
+  {
     "name": "Shogun",
+    "category": "Vehicle",
     "base_value": 6500000,
     "duped_value": 6500000,
     "rarity": "Uncommon",
     "demand": "Above Average"
   },
   {
+    "name": "Snow Face",
+    "category": "Rim",
+    "base_value": 6500000,
+    "duped_value": 6500000,
+    "rarity": "Very Rare",
+    "demand": "Low"
+  },
+  {
+    "name": "Cash Spitter",
+    "category": "Spoiler",
+    "base_value": 6000000,
+    "duped_value": 6000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
     "name": "Scorpion",
+    "category": "Vehicle",
     "base_value": 6000000,
     "duped_value": 6000000,
     "rarity": "Common",
     "demand": "High"
   },
   {
-    "name": "Goliath",
-    "base_value": 5500000,
-    "duped_value": 5500000,
-    "rarity": "Rare",
-    "demand": "Average"
-  },
-  {
-    "name": "Macaron",
+    "name": "HyperRed Lvl3",
+    "category": "Color",
     "base_value": 5500000,
     "duped_value": 5500000,
     "rarity": "Uncommon",
-    "demand": "Average"
+    "demand": "Above Average"
+  },
+  {
+    "name": "Snow Shovel",
+    "category": "Spoiler",
+    "base_value": 5500000,
+    "duped_value": 5500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
   },
   {
     "name": "Carbonara",
+    "category": "Vehicle",
     "base_value": 5500000,
     "duped_value": 5500000,
     "rarity": "Common",
     "demand": "Above Average"
   },
   {
+    "name": "Macaron",
+    "category": "Vehicle",
+    "base_value": 5500000,
+    "duped_value": 5500000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
+    "name": "Bicycle Rack",
+    "category": "Spoiler",
+    "base_value": 5500000,
+    "duped_value": 5500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Goliath",
+    "category": "Vehicle",
+    "base_value": 5500000,
+    "duped_value": 5500000,
+    "rarity": "Rare",
+    "demand": "Above Average"
+  },
+  {
+    "name": "2Billion",
+    "category": "Spoiler",
+    "base_value": 5000000,
+    "duped_value": 5000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "INF1N1TY",
+    "category": "Rim",
+    "base_value": 5000000,
+    "duped_value": 5000000,
+    "rarity": "Uncommon",
+    "demand": "Average"
+  },
+  {
     "name": "Bandit",
+    "category": "Vehicle",
     "base_value": 5000000,
     "duped_value": 5000000,
     "rarity": "Rare",
     "demand": "Average"
   },
   {
-    "name": "Torero",
+    "name": "Snowflake",
+    "category": "Rim",
     "base_value": 4000000,
     "duped_value": 4000000,
-    "rarity": "Uncommon",
-    "demand": "Average"
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Volt Wing",
+    "category": "Spoiler",
+    "base_value": 4000000,
+    "duped_value": 4000000,
+    "rarity": "Very Rare",
+    "demand": "Very Low"
   },
   {
     "name": "JB8",
+    "category": "Vehicle",
     "base_value": 4000000,
     "duped_value": 4000000,
     "rarity": "Uncommon",
     "demand": "Below Average"
   },
   {
-    "name": "Katana",
-    "base_value": 3500000,
-    "duped_value": 3500000,
-    "rarity": "Common",
+    "name": "Ionize",
+    "category": "Rim",
+    "base_value": 4000000,
+    "duped_value": 4000000,
+    "rarity": "Very Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Icicle",
+    "category": "Rim",
+    "base_value": 4000000,
+    "duped_value": 4000000,
+    "rarity": "Very Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Galactic Carbon",
+    "category": "Texture",
+    "base_value": 4000000,
+    "duped_value": 4000000,
+    "rarity": "Uncommon",
+    "demand": "Low"
+  },
+  {
+    "name": "Torero",
+    "category": "Vehicle",
+    "base_value": 4000000,
+    "duped_value": 4000000,
+    "rarity": "Uncommon",
     "demand": "Average"
   },
   {
     "name": "Orion M42",
+    "category": "Vehicle",
     "base_value": 3500000,
     "duped_value": 3500000,
     "rarity": "Very Common",
     "demand": "Above Average"
   },
   {
+    "name": "HyperOrange Lvl3",
+    "category": "Color",
+    "base_value": 3500000,
+    "duped_value": 3500000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Katana",
+    "category": "Vehicle",
+    "base_value": 3500000,
+    "duped_value": 3500000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "HyperGreen Lvl3",
+    "category": "Color",
+    "base_value": 3500000,
+    "duped_value": 3500000,
+    "rarity": "Uncommon",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Sci-Fi Kitchen",
+    "category": "Furniture",
+    "base_value": 3500000,
+    "duped_value": 3500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
     "name": "Snake",
+    "category": "Vehicle",
     "base_value": 3500000,
     "duped_value": 3500000,
     "rarity": "Common",
     "demand": "Above Average"
   },
   {
-    "name": "Air Tail",
+    "name": "Race Simulator",
+    "category": "Furniture",
     "base_value": 3000000,
     "duped_value": 3000000,
-    "rarity": "Common",
-    "demand": "Average"
+    "rarity": "Very Rare",
+    "demand": "Minimal"
   },
   {
-    "name": "Brulee",
+    "name": "Snowstorm",
+    "category": "Weapon Skin",
     "base_value": 3000000,
     "duped_value": 3000000,
-    "rarity": "Common",
-    "demand": "Average"
+    "rarity": "Very Rare",
+    "demand": "Minimal"
   },
   {
     "name": "Rattler",
+    "category": "Vehicle",
     "base_value": 3000000,
     "duped_value": 3000000,
     "rarity": "Rare",
     "demand": "Very Low"
   },
   {
+    "name": "HyperDiamond Lvl2",
+    "category": "Color",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Common",
+    "demand": "Average"
+  },
+  {
+    "name": "TikiTorch",
+    "category": "Spoiler",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Air Tail",
+    "category": "Vehicle",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Glider",
+    "category": "Spoiler",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Winter Camo",
+    "category": "Texture",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Uncommon",
+    "demand": "Above Average"
+  },
+  {
+    "name": "EightLeg",
+    "category": "Spoiler",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "HyperBlue Lvl2",
+    "category": "Color",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
     "name": "Iceborn",
+    "category": "Vehicle",
     "base_value": 3000000,
     "duped_value": 3000000,
     "rarity": "Common",
     "demand": "Below Average"
   },
   {
+    "name": "HyperYellow Lvl3",
+    "category": "Color",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "5Star",
+    "category": "Spoiler",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
     "name": "Tiny Toy",
+    "category": "Vehicle",
     "base_value": 3000000,
     "duped_value": 3000000,
     "rarity": "Common",
     "demand": "Above Average"
   },
   {
-    "name": "Polaire",
+    "name": "Fire",
+    "category": "Texture",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Trapped Bookshelf",
+    "category": "Furniture",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Clickbait",
+    "category": "Spoiler",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Velocity",
+    "category": "Spoiler",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Earthquake",
+    "category": "Texture",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Hot Chocolate Tub",
+    "category": "Furniture",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Brulee",
+    "category": "Vehicle",
+    "base_value": 3000000,
+    "duped_value": 3000000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Planetary",
+    "category": "Rim",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Blue Pixel",
+    "category": "Texture",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Uncommon",
+    "demand": "Low"
+  },
+  {
+    "name": "Snow Trail",
+    "category": "Tire Style",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Uncommon",
+    "demand": "Low"
+  },
+  {
+    "name": "Concept",
+    "category": "Vehicle",
     "base_value": 2500000,
     "duped_value": 2500000,
     "rarity": "Very Common",
+    "demand": "Low"
+  },
+  {
+    "name": "Red50",
+    "category": "Tire Sticker",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Blue Chute",
+    "category": "Spoiler",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Polaire",
+    "category": "Vehicle",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Common",
+    "demand": "Above Average"
+  },
+  {
+    "name": "Wedge",
+    "category": "Vehicle",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Common",
+    "demand": "Average"
+  },
+  {
+    "name": "Brickset",
+    "category": "Spoiler",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Brickset",
+    "category": "Rim",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Aurora",
+    "category": "Drift",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Uncommon",
     "demand": "Above Average"
   },
   {
     "name": "Bloxy",
+    "category": "Vehicle",
     "base_value": 2500000,
     "duped_value": 2500000,
     "rarity": "Rare",
     "demand": "Average"
   },
   {
-    "name": "Wedge",
+    "name": "Spark",
+    "category": "Drift",
     "base_value": 2500000,
     "duped_value": 2500000,
-    "rarity": "Common",
-    "demand": "Average"
+    "rarity": "Rare",
+    "demand": "Very Low"
   },
   {
-    "name": "Poseidon",
+    "name": "Snowchain",
+    "category": "Tire Style",
     "base_value": 2500000,
     "duped_value": 2500000,
     "rarity": "Uncommon",
-    "demand": "Below Average"
+    "demand": "Low"
+  },
+  {
+    "name": "Center Lock",
+    "category": "Rim",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Black Ice",
+    "category": "Texture",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Rare",
+    "demand": "Low"
   },
   {
     "name": "Cobra",
+    "category": "Vehicle",
     "base_value": 2500000,
     "duped_value": 2500000,
     "rarity": "Uncommon",
     "demand": "Below Average"
   },
   {
-    "name": "Concept",
+    "name": "Hypno",
+    "category": "Rim",
     "base_value": 2500000,
     "duped_value": 2500000,
-    "rarity": "Very Common",
-    "demand": "Low"
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Poseidon",
+    "category": "Vehicle",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Uncommon",
+    "demand": "Below Average"
   },
   {
     "name": "Brick Kar-1",
+    "category": "Vehicle",
     "base_value": 2500000,
     "duped_value": 2500000,
     "rarity": "Common",
     "demand": "Low"
   },
   {
+    "name": "Blue Eyes",
+    "category": "Rim",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Iron Rock",
+    "category": "Rim",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Japanese",
+    "category": "Tire Sticker",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Rare",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Racecar Bed",
+    "category": "Furniture",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Radar",
+    "category": "Rim",
+    "base_value": 2500000,
+    "duped_value": 2500000,
+    "rarity": "Very Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Sakura",
+    "category": "Rim",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Jailbreak Army",
+    "category": "Tire Sticker",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "WagonWheel",
+    "category": "Rim",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Diamond Engrave",
+    "category": "Rim",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
     "name": "Stormrider",
+    "category": "Vehicle",
     "base_value": 2000000,
     "duped_value": 2000000,
     "rarity": "Common",
     "demand": "Average"
   },
   {
+    "name": "Track Toy",
+    "category": "Rim",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
     "name": "Shell Classic",
+    "category": "Vehicle",
     "base_value": 2000000,
     "duped_value": 2000000,
     "rarity": "Rare",
     "demand": "Very Low"
   },
   {
+    "name": "EnduranceWing",
+    "category": "Spoiler",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Sarcophagus Bed",
+    "category": "Furniture",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Stance",
+    "category": "Rim",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Old Town Road",
+    "category": "Texture",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Dual Rockets",
+    "category": "Spoiler",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Uncommon",
+    "demand": "Low"
+  },
+  {
     "name": "Agent",
+    "category": "Vehicle",
     "base_value": 2000000,
     "duped_value": 2000000,
     "rarity": "Rare",
     "demand": "Low"
   },
   {
+    "name": "Donut",
+    "category": "Tire Style",
+    "base_value": 2000000,
+    "duped_value": 2000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Rubber Ducky",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Daytona",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Orange Pixel",
+    "category": "Texture",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Cucaracha",
+    "category": "Horn",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Jack Rabbit",
+    "category": "Vehicle",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Low"
+  },
+  {
+    "name": "Flamethrower",
+    "category": "Spoiler",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Water Gun",
+    "category": "Spoiler",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Blackbeard",
+    "category": "Vehicle",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Manga",
+    "category": "Texture",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Cryo Chamber",
+    "category": "Furniture",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Revox",
+    "category": "Vehicle",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Picnic Table",
+    "category": "Furniture",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "DigitalConfetti",
+    "category": "Weapon Skin",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Jetpack",
+    "category": "Spoiler",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Flaming",
+    "category": "Weapon Skin",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "BluePortal",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Uncommon",
+    "demand": "Low"
+  },
+  {
+    "name": "Fore",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Tiger",
+    "category": "Texture",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "MissileBed",
+    "category": "Furniture",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Retrowave",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Low"
+  },
+  {
+    "name": "Spider Leg",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Deathray",
+    "category": "Spoiler",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Afterburner",
+    "category": "Spoiler",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Mecha Arm",
+    "category": "Spoiler",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Sparkler",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Frostburn",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Cucaracha",
+    "category": "Horn",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "EuroCloverleaf",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Pixeltary",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
     "name": "JBX-0031",
+    "category": "Vehicle",
     "base_value": 1500000,
     "duped_value": 1500000,
     "rarity": "Very Common",
     "demand": "Below Average"
   },
   {
-    "name": "Revox",
+    "name": "Oceanwater",
+    "category": "Drift",
     "base_value": 1500000,
     "duped_value": 1500000,
-    "rarity": "Common",
-    "demand": "Below Average"
+    "rarity": "Rare",
+    "demand": "Very Low"
   },
   {
-    "name": "Blackbeard",
+    "name": "Armor",
+    "category": "Texture",
     "base_value": 1500000,
     "duped_value": 1500000,
-    "rarity": "Uncommon",
-    "demand": "Very Low"
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "ColorsOfItaly",
+    "category": "Spoiler",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Red Eyes",
+    "category": "Rim",
+    "base_value": 1500000,
+    "duped_value": 1500000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
   },
   {
     "name": "Longhorn",
+    "category": "Vehicle",
     "base_value": 1500000,
     "duped_value": 1500000,
     "rarity": "Rare",
     "demand": "Low"
   },
   {
-    "name": "Jack Rabbit",
-    "base_value": 1500000,
-    "duped_value": 1500000,
-    "rarity": "Rare",
-    "demand": "Low"
-  },
-  {
-    "name": "OG Monster",
+    "name": "Frost Crawler",
+    "category": "Vehicle",
     "base_value": 1250000,
     "duped_value": 1250000,
     "rarity": "Rare",
     "demand": "Very Low"
   },
   {
-    "name": "Megalodon",
+    "name": "CircuitBoard",
+    "category": "Weapon Skin",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Teleporters",
+    "category": "Furniture",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Surfboard Rack",
+    "category": "Spoiler",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Dual Flags",
+    "category": "Spoiler",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "WhiteMarble",
+    "category": "Weapon Skin",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "RGB Wall",
+    "category": "Furniture",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Gold",
+    "category": "Color",
     "base_value": 1250000,
     "duped_value": 1250000,
     "rarity": "Common",
     "demand": "Very Low"
   },
   {
-    "name": "Striker",
+    "name": "Doubloon",
+    "category": "Rim",
     "base_value": 1250000,
     "duped_value": 1250000,
-    "rarity": "Uncommon",
-    "demand": "Very Low"
+    "rarity": "Very Rare",
+    "demand": "Minimal"
   },
   {
-    "name": "Frost Crawler",
+    "name": "Soccer",
+    "category": "Rim",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Star Badge",
+    "category": "Rim",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Cannonfire",
+    "category": "Spoiler",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "OG Monster",
+    "category": "Vehicle",
     "base_value": 1250000,
     "duped_value": 1250000,
     "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Shell Speaker",
+    "category": "Spoiler",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Foosball Table",
+    "category": "Furniture",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Striker",
+    "category": "Vehicle",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Uncommon",
     "demand": "Very Low"
   },
   {
     "name": "Black Widow",
+    "category": "Vehicle",
     "base_value": 1250000,
     "duped_value": 1250000,
     "rarity": "Very Common",
     "demand": "Very Low"
   },
   {
-    "name": "Monster",
-    "base_value": 1000000,
-    "duped_value": 1000000,
+    "name": "Dark Matter",
+    "category": "Drift",
+    "base_value": 1250000,
+    "duped_value": 1250000,
     "rarity": "Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Pixel",
+    "category": "Texture",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Megalodon",
+    "category": "Vehicle",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Bull",
+    "category": "Rim",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Brickset",
+    "category": "Drift",
+    "base_value": 1250000,
+    "duped_value": 1250000,
+    "rarity": "Uncommon",
     "demand": "Minimal"
   },
   {
     "name": "Bionic",
+    "category": "Vehicle",
     "base_value": 1000000,
     "duped_value": 1000000,
     "rarity": "Very Common",
     "demand": "Very Low"
   },
   {
-    "name": "Maverick",
+    "name": "Sloop",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Earth",
+    "category": "Texture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "UFO",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "UKHeritage",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Neo-Static",
+    "category": "Drift",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Circuits",
+    "category": "Texture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Radiant Ice",
+    "category": "Color",
     "base_value": 1000000,
     "duped_value": 1000000,
     "rarity": "Common",
@@ -386,6 +1633,383 @@
   },
   {
     "name": "Volt",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Air Hockey Table",
+    "category": "Furniture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Jungle Palm",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Hotdog",
+    "category": "Texture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Spare",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Fire",
+    "category": "Weapon Skin",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Jet",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Sawblade",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Berlin Graffiti",
+    "category": "Texture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Baller",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Walk Of Fame",
+    "category": "Furniture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Lapine",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Low"
+  },
+  {
+    "name": "Tank",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Orange Chute",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Biohazard",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "HyperPurple Lvl2",
+    "category": "Color",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Low"
+  },
+  {
+    "name": "GalacticCarbon",
+    "category": "Weapon Skin",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "America",
+    "category": "Tire Style",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Crimson Racer",
+    "category": "Texture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Trailblazer",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Bloxy Lisa",
+    "category": "Furniture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "JapaneseLantern",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Maverick",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "HyperRed Lvl2",
+    "category": "Color",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Low"
+  },
+  {
+    "name": "HyperPink Lvl2",
+    "category": "Color",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Below Average"
+  },
+  {
+    "name": "Bamboo Shooters",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "HyperGreen Lvl2",
+    "category": "Color",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Low"
+  },
+  {
+    "name": "Tumbleweed",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Monster",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "ArcadeRacer",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "SnowCannon",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Windmill",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "HyperOrange Lvl2",
+    "category": "Color",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Arcade Portal",
+    "category": "Furniture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "BlueS3",
+    "category": "Tire Sticker",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Marshmallow",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Distorted",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Bloxxer Launcher",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "White Marble",
+    "category": "Texture",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Bull",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Bloxxer",
+    "category": "Drift",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "JDM",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Uncommon",
+    "demand": "Minimal"
+  },
+  {
+    "name": "GuitarRiff",
+    "category": "Spoiler",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Manta",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Very Low"
+  },
+  {
+    "name": "Nemesis",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Drone",
+    "category": "Vehicle",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Common",
+    "demand": "Minimal"
+  },
+  {
+    "name": "NASCAR 75th",
+    "category": "Tire Sticker",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Very Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "BlackHawk",
+    "category": "Vehicle",
     "base_value": 1000000,
     "duped_value": 1000000,
     "rarity": "Very Common",
@@ -393,58 +2017,50 @@
   },
   {
     "name": "Bluebird",
+    "category": "Vehicle",
     "base_value": 1000000,
     "duped_value": 1000000,
     "rarity": "Very Common",
     "demand": "Minimal"
   },
   {
-    "name": "Trailblazer",
+    "name": "Ice Spike",
+    "category": "Drift",
     "base_value": 1000000,
     "duped_value": 1000000,
-    "rarity": "Common",
+    "rarity": "Rare",
     "demand": "Minimal"
   },
   {
-    "name": "BlackHawk",
+    "name": "Sakura Tree",
+    "category": "Furniture",
     "base_value": 1000000,
     "duped_value": 1000000,
-    "rarity": "Very Common",
-    "demand": "Very Low"
-  },
-  {
-    "name": "Tank",
-    "base_value": 1000000,
-    "duped_value": 1000000,
-    "rarity": "Common",
+    "rarity": "Rare",
     "demand": "Minimal"
   },
   {
-    "name": "Drone",
+    "name": "Lightning",
+    "category": "Texture",
     "base_value": 1000000,
     "duped_value": 1000000,
-    "rarity": "Very Common",
+    "rarity": "Very Rare",
     "demand": "Minimal"
   },
   {
-    "name": "Sloop",
+    "name": "Energized",
+    "category": "Rim",
+    "base_value": 1000000,
+    "duped_value": 1000000,
+    "rarity": "Rare",
+    "demand": "Minimal"
+  },
+  {
+    "name": "Nemesis",
+    "category": "Drift",
     "base_value": 1000000,
     "duped_value": 1000000,
     "rarity": "Uncommon",
     "demand": "Minimal"
-  },
-  {
-    "name": "Manta",
-    "base_value": 1000000,
-    "duped_value": 1000000,
-    "rarity": "Very Common",
-    "demand": "Very Low"
-  },
-  {
-    "name": "Jet",
-    "base_value": 1000000,
-    "duped_value": 1000000,
-    "rarity": "Very Common",
-    "demand": "Very Low"
   }
 ]

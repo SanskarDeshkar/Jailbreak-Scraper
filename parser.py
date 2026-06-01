@@ -40,10 +40,24 @@ def parse_jb_html(html_content: str) -> list[dict]:
     """Parse Jailbreak vehicle cards from HTML into a list of dictionaries."""
     soup = BeautifulSoup(html_content, "html.parser")
     vehicles = []
+    allowed_categories = {
+        "Vehicle",
+        "Spoiler",
+        "Texture",
+        "Color",
+        "Rim",
+        "Drift",
+        "Horn",
+        "Tire Style",
+        "Tire Sticker",
+        "Furniture",
+        "Weapon Skin",
+    }
 
     for card in soup.find_all("div", attrs={"data-slot": "card"}):
         category_span = card.find("span", class_="text-sm")
-        if category_span is None or category_span.get_text(strip=True) != "Vehicle":
+        category = category_span.get_text(strip=True) if category_span else ""
+        if category not in allowed_categories:
             continue
 
         name_tag = card.find("h4")
@@ -86,6 +100,7 @@ def parse_jb_html(html_content: str) -> list[dict]:
         vehicles.append(
             {
                 "name": name,
+                "category": category,
                 "base_value": metrics["Value"],
                 "duped_value": metrics["Duped Value"],
                 "rarity": metrics["Rarity"],
